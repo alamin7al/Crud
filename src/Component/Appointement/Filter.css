@@ -1,0 +1,15 @@
+.p{
+   cursor: pointer;
+   animation: alternate;
+}
+.p:hover{
+    color: rgb(12, 48, 248);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: navy;
+    text-decoration: solid;
+
+}
+p{
+    margin: 5px;
+    padding: 2px;
+}
